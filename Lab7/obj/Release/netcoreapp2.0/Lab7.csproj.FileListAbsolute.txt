@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\Информационная безопасность лабы\Lab7\Lab7\bin\Release\netcoreapp2.0\Lab7.deps.json
+C:\Users\admin\Desktop\Информационная безопасность лабы\Lab7\Lab7\bin\Release\netcoreapp2.0\Lab7.runtimeconfig.json
+C:\Users\admin\Desktop\Информационная безопасность лабы\Lab7\Lab7\bin\Release\netcoreapp2.0\Lab7.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Информационная безопасность лабы\Lab7\Lab7\bin\Release\netcoreapp2.0\Lab7.dll
+C:\Users\admin\Desktop\Информационная безопасность лабы\Lab7\Lab7\bin\Release\netcoreapp2.0\Lab7.pdb
+C:\Users\admin\Desktop\Информационная безопасность лабы\Lab7\Lab7\obj\Release\netcoreapp2.0\Lab7.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Информационная безопасность лабы\Lab7\Lab7\obj\Release\netcoreapp2.0\Lab7.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Информационная безопасность лабы\Lab7\Lab7\obj\Release\netcoreapp2.0\Lab7.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Информационная безопасность лабы\Lab7\Lab7\obj\Release\netcoreapp2.0\Lab7.AssemblyInfo.cs
+C:\Users\admin\Desktop\Информационная безопасность лабы\Lab7\Lab7\obj\Release\netcoreapp2.0\Lab7.dll
+C:\Users\admin\Desktop\Информационная безопасность лабы\Lab7\Lab7\obj\Release\netcoreapp2.0\Lab7.pdb
